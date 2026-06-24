@@ -238,11 +238,7 @@ Driving creative direction and content strategy for the MuLearn PRN chapter, a p
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NANDU-SK-004&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-
-</div>
+![Trophy](https://github-profile-trophy.vercel.app/?username=NANDU-SK-004&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)
 
 ---
 
