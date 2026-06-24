@@ -259,9 +259,7 @@ Driving creative direction and content strategy for the MuLearn PRN chapter, a p
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/NANDU-SK-004/NANDU-SK-004/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
+  <img src="https://raw.githubusercontent.com/NANDU-SK-004/profile-snake/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 ---
