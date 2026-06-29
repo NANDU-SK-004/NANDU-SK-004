@@ -119,6 +119,23 @@ I care more about **building things that solve real problems** than building thi
 ## 🚀 Featured Projects
 
 <details>
+<summary><b>🔹 Leet2Git — Automatic LeetCode to GitHub Sync</b></summary>
+<br/>
+
+A Chrome extension that automatically pushes accepted LeetCode submissions to GitHub, keeping your coding portfolio up to date without any manual uploads.
+
+| Aspect             | Details                                                                                             |
+| :----------------- | :-------------------------------------------------------------------------------------------------- |
+| **Stack**          | JavaScript, Chrome Extensions API, GitHub REST API                                                  |
+| **Features**       | Auto-sync accepted submissions, track solved count, Easy/Medium/Hard statistics, recent submissions |
+| **Authentication** | One-time setup with GitHub PAT, username, and repository name                                       |
+| **Repository**     | https://github.com/NANDU-SK-004/Leet2Git                                                            |
+
+Built to replace unreliable existing solutions with a simple and automated workflow for syncing LeetCode progress directly to GitHub.
+
+</details>
+
+<details>
 <summary><b>🔹 Iris Flower Classification — Machine Learning</b></summary>
 <br/>
 
