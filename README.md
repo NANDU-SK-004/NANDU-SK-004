@@ -238,20 +238,7 @@ Driving creative direction and content strategy for the MuLearn PRN chapter, a p
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NANDU-SK-004&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9e0&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=NANDU-SK-004&theme=dark&hide_border=true&background=0D0D1A&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDU-SK-004&layout=compact&theme=dark&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&text_color=c9c9e0&langs_count=8" width="49%"/>
-
-</div>
-
----
 
 
 ## 📈 Contribution Activity
